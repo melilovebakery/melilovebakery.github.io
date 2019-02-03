@@ -1,0 +1,8 @@
+body {
+  padding: 0 1em;
+  font-size: calc(14px + 0.1vh);
+
+  @media (min-width: 768px) {
+    padding: 0;
+  }
+}
